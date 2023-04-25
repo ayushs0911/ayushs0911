@@ -18,4 +18,6 @@ Projects are spreadout on various different sections of Data Science, like Data 
 ## Time Forecasting
 - [Sales Department](https://github.com/ayushs0911/Projects/blob/main/Sales_Forecast_using_Facebook_Prophet.ipynb) : Sales Forecasting
 
-##Misc 
+## Misc 
+- [Google Deep Dream](https://github.com/ayushs0911/DeepDream)
+
