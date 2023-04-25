@@ -1,8 +1,9 @@
 # Data Science Portfolio
-These are various projects which I've performed to upskill my capabilities as a Data Scientist. 
+These are various projects which I've performed to upskill my capabilities as a Data Scientist.<br>
 Projects are spreadout on various different sections of Data Science, like Data Analysis, Data Exploration, Machine Learning, Computer Vision, NLP and Time Series Analysis. 
 
-## Machine Learning Models
+
+## Machine Learning
 - [SpaceX Falcon 9 1st stage Landing Prediction](https://github.com/ayushs0911/IBM-Capstone-Project)
 - HR Department Case Study: [Employees Attrition Prediction](https://github.com/ayushs0911/Projects/blob/main/HR%20Department:%20Attrition%20Prediction.ipynb) <br>
 - Financial Institution Case Study : [Likelihood of approving Loan based on Financial History](https://github.com/ayushs0911/Projects/blob/main/Likelihood_of_approving_a_Loan.ipynb)
