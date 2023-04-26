@@ -29,7 +29,7 @@ These are various projects which I've performed to upskill my capabilities as a 
   - Imported Libraries, Downloaded Dataset from Tensorflow Datasets
   - Data Visualisation to see how our images look.
   - Data Augmentation so that our model does not overfits.
-  - Then Data loading through Batches, also prefetching dataset to make training faster.
+  - Data loading through Batches, also prefetching dataset to make training faster.
   - Also tried Mixup data augmentation, Cutmix augmentation and Albumenations but couldn't use it as my processing power was not able to comprehend it.
   - Model construction via Convolutional Neural Networks
   - Introduced callbacks to make training more efficient
