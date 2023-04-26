@@ -1,6 +1,5 @@
 # Data Science Portfolio
 These are various projects which I've performed to upskill my capabilities as a Data Scientist.<br>
-Projects are spreadout on various different sections of Data Science, like Data Analysis, Data Exploration, Machine Learning, Computer Vision, NLP and Time Series Analysis. 
 
 
 ## Machine Learning
