@@ -28,6 +28,7 @@ These are various projects which I've performed to upskill my capabilities as a 
   - Performing ANOVA And Chisquare test for feature selection 
   - OneHot Encoder, Min Max Scaler 
 <br>
+
 **Financial Institution Case Study : [Likelihood of approving Loan based on Financial History](https://github.com/ayushs0911/Projects/blob/main/Likelihood_of_approving_a_Loan.ipynb)**
 
 ## Computer Vision 
