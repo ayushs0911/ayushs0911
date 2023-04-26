@@ -59,11 +59,20 @@ These are various projects which I've performed to upskill my capabilities as a 
 
 ## Time Forecasting
 **Sales Department Case Study : [Sales Forecasting](https://github.com/ayushs0911/Projects/blob/main/Sales_Forecast_using_Facebook_Prophet.ipynb)**
+- **Goal of Project :** 
+  - Forecast sales using store, promotion, and competitor data
+  - For companies to become competitive and skyrocket their growth, they need to leaverage AI/ML to develop predictive models to forecast sales in future. Predictive models attempt at forceasting future sales based on historical data while taking into account seasonality effects, demand, holidays, promotions, and competition.
+- **The Process:**
+  - Importing Libraries and Downloading Dataset from Kaggle : Sales Data, Store information Data
+  - Data Cleaning : Checked Nulls, Dropped not-important columns,
+  - Merged both dataset on 'Store Dataset'
+  - Statistical Anlaysis 
+  - Used Facebook **Prophet Alogorithm** for Prediction. 
 
 ## Open CV
-**[Optical Character Recognition](https://github.com/ayushs0911/OpenCV/blob/main/OCR_.ipynb)**
-**[Grab Cut Algorithm](https://github.com/ayushs0911/OpenCV/blob/main/GrabCut_Algorithm.ipynb)**
+- **[Optical Character Recognition](https://github.com/ayushs0911/OpenCV/blob/main/OCR_.ipynb)** : Using OCR with PyTesseract and EASY OCR
+- **[Grab Cut Algorithm](https://github.com/ayushs0911/OpenCV/blob/main/GrabCut_Algorithm.ipynb)** : The GrabCut algorithm is particularly useful for applications such as image editing, where it can be used to extract objects from an image for further manipulation or insertion into another image.
 
 ## Misc 
-- [Google Deep Dream](https://github.com/ayushs0911/DeepDream)
+- [Google Deep Dream](https://github.com/ayushs0911/DeepDream) : The DeepDream algorithm effective in asking a pre-trained CNN to take a look at the image, identify patterns you recognise and amplify it. It uses representations learned by CNNs to produce these hallucinogenic or 'trippy' images.
 
