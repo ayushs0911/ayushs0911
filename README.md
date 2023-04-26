@@ -27,9 +27,7 @@ Projects are spreadout on various different sections of Data Science, like Data 
   - Detecting whether a Blood Sample is infected by Malarial Parasite. This Model can help in easy detection of malaria cases. 
   - In remote places, where doctors and technicians are not available, this Deep learning model can aid in faster diagnosis and can save lives.
 - **The Process :**
-  - Imported Libraries
-  - Downloaded Dataset from Tensorflow Datasets
-  - Splitting data in Train, Test, Validation datasets
+  - Imported Libraries, Downloaded Dataset from Tensorflow Datasets
   - Data Visualisation to see how our images look.
   - Data Augmentation so that our model does not overfits.
   - Then Data loading through Batches, also prefetching dataset to make training faster.
