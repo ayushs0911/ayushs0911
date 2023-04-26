@@ -4,7 +4,7 @@ These are various projects which I've performed to upskill my capabilities as a 
 
 ## Machine Learning
 **[SpaceX Falcon 9 1st stage Landing Prediction](https://github.com/ayushs0911/IBM-Capstone-Project)**
-- **Goal of the Project** : 
+- **Goal of the Project :**
   - SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of $165 million per launch, much of the savings is because SpaceX can reuse the first stage. 
   - Therefore if we can determine if the first stage will land, we can determine the cost of a launch. 
 - **The Process:**
@@ -18,6 +18,16 @@ These are various projects which I've performed to upskill my capabilities as a 
 <br>
 
 **HR Department Case Study: [Employees Attrition Prediction](https://github.com/ayushs0911/Projects/blob/main/HR%20Department:%20Attrition%20Prediction.ipynb)** <br>
+- **Goal of Project :**
+  - Perform classification analysis to determine wheather employee will leave the company or not
+  - Small Business owners spends 40% of their working hours on tasks that do not generate any income such as hiring. Companies spend 15-20% of employee's salary to recruit new candidate. An average company loses anywhere b/w 1% and 2.5% of their total revenue on time it takes to bring a new hire up to speed. Hiring a new employee costs an average of $7645(0-500 corporation)(Source link text)
+- **The Process :**
+  - Importing Libraries and Downloading CSV Dataset 
+  - Data Cleaning : Nulls, Dropped Un-related columns
+  - Data Viz + Satistical Analysis : Correlation Matrix, Kde Plots, Box Plots, Count Plots 
+  - Performing ANOVA And Chisquare test for feature selection 
+  - OneHot Encoder, Min Max Scaler 
+<br>
 **Financial Institution Case Study : [Likelihood of approving Loan based on Financial History](https://github.com/ayushs0911/Projects/blob/main/Likelihood_of_approving_a_Loan.ipynb)**
 
 ## Computer Vision 
