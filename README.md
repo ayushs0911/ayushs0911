@@ -2,8 +2,10 @@
 These are short summaries of my projects, which I've performed to upskill my capabilities as a Data Scientist.<br>
 
 **Table of Contents:**
-- [Machine Learning](#machine-learning)
+- [Machine Learning](#machine-learning)<br>
+*Tools : Numpy, Pandas, Scikit-Learn, Matplotlib, Seaborn, SQL, Statistics*
 - [Computer Vision](#cv)
+*Tools : TensorFlow, CNN, OpenCV*
 - [NLP](#nlp)
 - [Time Forecasting](#ts)
 - [OpenCV](#ocv)
