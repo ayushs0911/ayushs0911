@@ -1,12 +1,29 @@
 # Data Science Portfolio
 These are short summaries of my projects, which I've performed to upskill my capabilities as a Data Scientist.<br>
 
+**Table of Contents:**
 - [Machine Learning](#machine-learning)
+  - [SpaceX Falcon 9 1st stage Landing Prediction](#space)
+  - [HR Department Case Study: Employees Attrition Prediction](#employee)
 - [Computer Vision](#cv)
+  - [Malaria Detection by Blood Sample Images](#malaria)
+  - [Food Vision 101](#food)
+- [NLP](#nlp)
+  - Drake Like Lyrics Generation
+  - Disaster Tweet Prediction : NLP
+  - Sentiment Analysys : Alexa Reviews
+- [Time Forecasting](#ts)
+  - Sales Department Case Study : Sales Forecasting
+- [OpenCV](#ocv)
+  - Optical Character Recognition
+  - Grab Cut Algorithm
+- [Misc.](#misc)
+  - Google Deep Dream 
 
+*****
 
 ## Machine Learning <a name="machine-learning"></a>
-**[SpaceX Falcon 9 1st stage Landing Prediction](https://github.com/ayushs0911/IBM-Capstone-Project)**
+**[SpaceX Falcon 9 1st stage Landing Prediction](https://github.com/ayushs0911/IBM-Capstone-Project)** <a name="space"></a>
 - **Goal of the Project :**
   - SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of $165 million per launch, much of the savings is because SpaceX can reuse the first stage. 
   - Therefore if we can determine if the first stage will land, we can determine the cost of a launch. 
@@ -19,7 +36,7 @@ These are short summaries of my projects, which I've performed to upskill my cap
   - Decision Trees Performed Best | `Accuracy : ~ 90%`
 <br>
 
-**HR Department Case Study: [Employees Attrition Prediction](https://github.com/ayushs0911/Projects/blob/main/HR%20Department:%20Attrition%20Prediction.ipynb)** <br>
+**HR Department Case Study: [Employees Attrition Prediction](https://github.com/ayushs0911/Projects/blob/main/HR%20Department:%20Attrition%20Prediction.ipynb)** <a name="employee"></a>
 - **Goal of Project :**
   - Perform classification analysis to determine wheather employee will leave the company or not
   - Small Business owners spends 40% of their working hours on tasks that do not generate any income such as hiring. Companies spend 15-20% of employee's salary to recruit new candidate. An average company loses anywhere b/w 1% and 2.5% of their total revenue on time it takes to bring a new hire up to speed. Hiring a new employee costs an average of $7645(0-500 corporation)(Source link text)
@@ -33,7 +50,7 @@ These are short summaries of my projects, which I've performed to upskill my cap
 **Financial Institution Case Study : [Likelihood of approving Loan based on Financial History](https://github.com/ayushs0911/Projects/blob/main/Likelihood_of_approving_a_Loan.ipynb)**
 
 ## Computer Vision <a name="cv"></a>
-**[Malaria Detection by Blood Sample Images](https://github.com/ayushs0911/Projects/blob/main/Malaria__detection.ipynb)**<br>
+**[Malaria Detection by Blood Sample Images](https://github.com/ayushs0911/Projects/blob/main/Malaria__detection.ipynb)**<a name="malaria"></a>
 - **Goal of the Project :** 
   - Detecting whether a Blood Sample is infected by Malarial Parasite. This Model can help in easy detection of malaria cases. 
   - In remote places, where doctors and technicians are not available, this Deep learning model can aid in faster diagnosis and can save lives.
@@ -49,14 +66,14 @@ These are short summaries of my projects, which I've performed to upskill my cap
   - Then re-plotted the Confusion Matrix
 
 
-**[Food Vision 101 : Image Classification model using TensorFlow](https://github.com/ayushs0911/Projects/blob/main/Food_Vision_Image_Classificaton_TensorFlow.ipynb)**<br>
+**[Food Vision 101 : Image Classification model using TensorFlow](https://github.com/ayushs0911/Projects/blob/main/Food_Vision_Image_Classificaton_TensorFlow.ipynb)**<a name="food"></a>
 
-## NLP
+## NLP <a name="nlp"></a>
 **[Drake Like Lyrics Generation](https://github.com/ayushs0911/Projects/blob/main/NLP/Drake_Lyrics_Generator.ipynb)**<br>
 **[Disaster Tweet Prediction : NLP](https://github.com/ayushs0911/Projects/blob/main/Disaster_tweets_Predictor.ipynb)**<br>
 **[Sentiment Analysys : Alexa Reviews](https://github.com/ayushs0911/Projects/blob/main/Sentiment_Analysis_Amazon_Alexa.ipynb)**
 
-## Time Forecasting
+## Time Forecasting <a name="ts"></a>
 **Sales Department Case Study : [Sales Forecasting](https://github.com/ayushs0911/Projects/blob/main/Sales_Forecast_using_Facebook_Prophet.ipynb)**
 - **Goal of Project :** 
   - Forecast sales using store, promotion, and competitor data
@@ -68,10 +85,10 @@ These are short summaries of my projects, which I've performed to upskill my cap
   - Statistical Anlaysis 
   - Used Facebook **Prophet Alogorithm** for Prediction. 
 
-## Open CV
+## Open CV <a name="ocv"></a>
 - **[Optical Character Recognition](https://github.com/ayushs0911/OpenCV/blob/main/OCR_.ipynb)** : Using OCR with PyTesseract and EASY OCR
 - **[Grab Cut Algorithm](https://github.com/ayushs0911/OpenCV/blob/main/GrabCut_Algorithm.ipynb)** : The GrabCut algorithm is particularly useful for applications such as image editing, where it can be used to extract objects from an image for further manipulation or insertion into another image.
 
-## Misc 
+## Misc <a name="misc"></a>
 - [Google Deep Dream](https://github.com/ayushs0911/DeepDream) : The DeepDream algorithm effective in asking a pre-trained CNN to take a look at the image, identify patterns you recognise and amplify it. It uses representations learned by CNNs to produce these hallucinogenic or 'trippy' images.
 
