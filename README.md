@@ -3,22 +3,11 @@ These are short summaries of my projects, which I've performed to upskill my cap
 
 **Table of Contents:**
 - [Machine Learning](#machine-learning)
-  - [SpaceX Falcon 9 1st stage Landing Prediction](#space)
-  - [HR Department Case Study: Employees Attrition Prediction](#employee)
 - [Computer Vision](#cv)
-  - [Malaria Detection by Blood Sample Images](#malaria)
-  - [Food Vision 101](#food)
 - [NLP](#nlp)
-  - Drake Like Lyrics Generation
-  - Disaster Tweet Prediction : NLP
-  - Sentiment Analysys : Alexa Reviews
 - [Time Forecasting](#ts)
-  - Sales Department Case Study : Sales Forecasting
 - [OpenCV](#ocv)
-  - Optical Character Recognition
-  - Grab Cut Algorithm
 - [Misc.](#misc)
-  - Google Deep Dream 
 
 *****
 
