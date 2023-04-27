@@ -1,8 +1,11 @@
 # Data Science Portfolio
 These are short summaries of my projects, which I've performed to upskill my capabilities as a Data Scientist.<br>
 
+- [Machine Learning](#machine-learning)
+- [Computer Vision](#cv)
 
-## Machine Learning
+
+## Machine Learning <a name="machine-learning"></a>
 **[SpaceX Falcon 9 1st stage Landing Prediction](https://github.com/ayushs0911/IBM-Capstone-Project)**
 - **Goal of the Project :**
   - SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of $165 million per launch, much of the savings is because SpaceX can reuse the first stage. 
@@ -29,7 +32,7 @@ These are short summaries of my projects, which I've performed to upskill my cap
 
 **Financial Institution Case Study : [Likelihood of approving Loan based on Financial History](https://github.com/ayushs0911/Projects/blob/main/Likelihood_of_approving_a_Loan.ipynb)**
 
-## Computer Vision 
+## Computer Vision <a name="cv"></a>
 **[Malaria Detection by Blood Sample Images](https://github.com/ayushs0911/Projects/blob/main/Malaria__detection.ipynb)**<br>
 - **Goal of the Project :** 
   - Detecting whether a Blood Sample is infected by Malarial Parasite. This Model can help in easy detection of malaria cases. 
