@@ -7,7 +7,7 @@ These are short summaries of my projects, which I've performed to upskill my cap
 - [Computer Vision](#cv)<br>
 *Tools : TensorFlow, Pytorch, OpenCV, HuggingFace Transformers*
 - [NLP](#nlp)<br>
-*Tools : spacy, nltk, embedding, LSTM, RNN*
+*Tools : Spacy, Nltk, Embeddings, LSTM, RNN*
 - [Time Forecasting](#ts)
 - [OpenCV](#ocv)
 - [Misc.](#misc)
