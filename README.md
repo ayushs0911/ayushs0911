@@ -1,4 +1,3 @@
-# Data Science Portfolio
 These are short summaries of my projects, which I've performed to upskill my capabilities as a Data Scientist.<br>
 
 **Table of Contents:**
@@ -14,7 +13,7 @@ These are short summaries of my projects, which I've performed to upskill my cap
 
 *****
 
-## Machine Learning <a name="machine-learning"></a>
+# Machine Learning <a name="machine-learning"></a>
 **[SpaceX Falcon 9 1st stage Landing Prediction](https://github.com/ayushs0911/IBM-Capstone-Project)** <a name="space"></a>
 - **Goal of the Project :**
   - SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of $165 million per launch, much of the savings is because SpaceX can reuse the first stage. 
@@ -40,7 +39,7 @@ These are short summaries of my projects, which I've performed to upskill my cap
 
 **Financial Institution Case Study : [Likelihood of approving Loan based on Financial History](https://github.com/ayushs0911/Projects/blob/main/Likelihood_of_approving_a_Loan.ipynb)**
 
-## Computer Vision <a name="cv"></a>
+# Computer Vision <a name="cv"></a>
 **[Emotion Detection](https://github.com/ayushs0911/Projects/tree/main/Emotions%20Detection)**
 -  **Goal of the Project :**
   -  Develop a deep learning model that accurately recognizes emotions from facial expressions for potential applications in psychology and marketing.
@@ -66,7 +65,7 @@ These are short summaries of my projects, which I've performed to upskill my cap
 **[Food Vision 101 : Image Classification model using TensorFlow](https://github.com/ayushs0911/Projects/blob/main/Food_Vision_Image_Classificaton_TensorFlow.ipynb)**<a name="food"></a>
 
 
-## NLP <a name="nlp"></a>
+# NLP <a name="nlp"></a>
 
 **[Sentiment Analysys : Alexa Reviews](https://github.com/ayushs0911/Projects/blob/main/Sentiment_Analysis_Amazon_Alexa.ipynb)**<br>
 - **Goal of Project :** 
@@ -104,7 +103,7 @@ These are short summaries of my projects, which I've performed to upskill my cap
   - Model 5 : `1D CNN`
   - Model 6 : `TensorFlow Hub Pretrained Feature Extractor`
 
-## Time Forecasting <a name="ts"></a>
+# Time Forecasting <a name="ts"></a>
 **Sales Department Case Study : [Sales Forecasting](https://github.com/ayushs0911/Projects/blob/main/Sales_Forecast_using_Facebook_Prophet.ipynb)**
 - **Goal of Project :** 
   - Forecast sales using store, promotion, and competitor data
@@ -115,10 +114,10 @@ These are short summaries of my projects, which I've performed to upskill my cap
   - Statistical Anlaysis 
   - Used Facebook `Prophet Alogorithm` for Prediction. 
 
-## Open CV <a name="ocv"></a>
-- **[Optical Character Recognition](https://github.com/ayushs0911/OpenCV/blob/main/OCR_.ipynb)** : Using OCR with PyTesseract and EASY OCR
-- **[Grab Cut Algorithm](https://github.com/ayushs0911/OpenCV/blob/main/GrabCut_Algorithm.ipynb)** : The GrabCut algorithm is particularly useful for applications such as image editing, where it can be used to extract objects from an image for further manipulation or insertion into another image.
+# Open CV <a name="ocv"></a>
+**[Optical Character Recognition](https://github.com/ayushs0911/OpenCV/blob/main/OCR_.ipynb)** : Using OCR with PyTesseract and EASY OCR <br>
+**[Grab Cut Algorithm](https://github.com/ayushs0911/OpenCV/blob/main/GrabCut_Algorithm.ipynb)** : The GrabCut algorithm is particularly useful for applications such as image editing, where it can be used to extract objects from an image for further manipulation or insertion into another image.
 
-## Misc <a name="misc"></a>
-- [Google Deep Dream](https://github.com/ayushs0911/DeepDream) : The DeepDream algorithm effective in asking a pre-trained CNN to take a look at the image, identify patterns you recognise and amplify it. It uses representations learned by CNNs to produce these hallucinogenic or 'trippy' images.
+# Misc <a name="misc"></a>
+[Google Deep Dream](https://github.com/ayushs0911/DeepDream) : The DeepDream algorithm effective in asking a pre-trained CNN to take a look at the image, identify patterns you recognise and amplify it. It uses representations learned by CNNs to produce these hallucinogenic or 'trippy' images.<br>
 
