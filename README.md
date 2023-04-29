@@ -6,8 +6,8 @@ These are short summaries of my projects, which I've performed to upskill my cap
 *Tools : Numpy, Pandas, Scikit-Learn, Matplotlib, Seaborn, SQL, Statistics*
 - [Computer Vision](#cv)<br>
 *Tools : TensorFlow, Pytorch, OpenCV, HuggingFace Transformers*
-- [NLP](#nlp)
-*Tools : spacy, nltk, embedding, LSTM, RNN*_
+- [NLP](#nlp)<br>
+*Tools : spacy, nltk, embedding, LSTM, RNN*
 - [Time Forecasting](#ts)
 - [OpenCV](#ocv)
 - [Misc.](#misc)
