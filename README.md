@@ -5,7 +5,7 @@ These are short summaries of my projects, which I've performed to upskill my cap
 - [Machine Learning](#machine-learning)<br>
 *Tools : Numpy, Pandas, Scikit-Learn, Matplotlib, Seaborn, SQL, Statistics*
 - [Computer Vision](#cv)<br>
-*Tools : TensorFlow, Pytorch, OpenCV, Resnet34, ViT, HuggingFace Transformers, *
+*Tools : TensorFlow, Pytorch, OpenCV, Resnet34, ViT, HuggingFace Transformers*
 - [NLP](#nlp)
 - [Time Forecasting](#ts)
 - [OpenCV](#ocv)
