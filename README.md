@@ -1,10 +1,14 @@
 These are short summaries of my projects, which I've performed to upskill my capabilities as a Data Scientist.<br>
 
 **Table of Contents:**
-- [Machine Learning](#machine-learning)<br>
+- [Machine Learning](#machine-learning)
+<br>
 *Tools : Numpy, Pandas, Scikit-Learn, Matplotlib, Seaborn, SQL, Statistics*
 - [Computer Vision](#cv)<br>
-*Tools : TensorFlow, Pytorch, OpenCV, HuggingFace Transformers*
+  - [Object Detection](#object)
+  - [Image Classification](#ic)
+<br>
+*Tools : TensorFlow, Pytorch, OpenCV, Albumentations, HuggingFace Transformers*
 - [NLP](#nlp)<br>
 *Tools : Spacy, Nltk, Embeddings, LSTM, RNN*
 - [Time Forecasting](#ts)
@@ -15,9 +19,7 @@ These are short summaries of my projects, which I've performed to upskill my cap
 
 # Machine Learning <a name="machine-learning"></a>
 **[SpaceX Falcon 9 1st stage Landing Prediction](https://github.com/ayushs0911/IBM-Capstone-Project)** <a name="space"></a>
-- **Goal of the Project :**
-  - SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of $165 million per launch, much of the savings is because SpaceX can reuse the first stage. 
-  - Therefore if we can determine if the first stage will land, we can determine the cost of a launch. 
+- **Goal of the Project :** SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of $165 million per launch, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. 
 - **Highlights:** 
   - HTML `Web scrapping` from Wikipedia and Request to SpaceX API
   - Connecting to `IBM DB2 Database` and Using `SQL` queries to explore. 
@@ -27,9 +29,8 @@ These are short summaries of my projects, which I've performed to upskill my cap
 <br>
 
 **HR Department Case Study: [Employees Attrition Prediction](https://github.com/ayushs0911/Projects/blob/main/HR%20Department:%20Attrition%20Prediction.ipynb)** <a name="employee"></a>
+- **Goal of Project :** Perform classification analysis to determine wheather employee will leave the company or not. Small Business owners spends 40% of their working hours on tasks that do not generate any income such as hiring. Companies spend 15-20% of employee's salary to recruit new candidate. An average company loses anywhere b/w 1% and 2.5% of their total revenue on time it takes to bring a new hire up to speed. Hiring a new employee costs an average of $7645(0-500 corporation)(Source link text)
 - **Goal of Project :**
-  - Perform classification analysis to determine wheather employee will leave the company or not
-  - Small Business owners spends 40% of their working hours on tasks that do not generate any income such as hiring. Companies spend 15-20% of employee's salary to recruit new candidate. An average company loses anywhere b/w 1% and 2.5% of their total revenue on time it takes to bring a new hire up to speed. Hiring a new employee costs an average of $7645(0-500 corporation)(Source link text)
 - **Highlights :**
   - Imported Libraries, CSV Dataset | Data Cleaning : Nulls, Dropped Un-related columns
   - Data Viz + Satistical Analysis : `Correlation Matrix, Kde Plots, Box Plots, Count Plots` 
@@ -40,9 +41,21 @@ These are short summaries of my projects, which I've performed to upskill my cap
 **Financial Institution Case Study : [Likelihood of approving Loan based on Financial History](https://github.com/ayushs0911/Projects/blob/main/Likelihood_of_approving_a_Loan.ipynb)**
 
 # Computer Vision <a name="cv"></a>
+## Object Detection <a name="object"></a>
+**[YOLO from Scratch](https://github.com/ayushs0911/Object-Detection/blob/main/YOLO_from_Scratch_.ipynb)**
+- **Goal of Project :** Create an object detection model that can accurately and efficiently detect objects in an image or video stream in real-time. 
+- **Highlights : **
+  - Parsed `XML` which contains annotation of training images with object detection information. 
+  - `Albumentations` Library
+  - Used `EfficientNet1` and changed top to CNN layers, instead of using Fully connected layers. 
+  - Defined `Intersection Over Union` function to measure the overlap between two sets of bounding boxes.
+  - Defined `YOLO Loss function`
+  - Trained for `50 Epochs` | Results displayed on Validation Dataset. 
+
+
+## Image Classification<a name="ic"></a>
 **[Emotion Detection](https://github.com/ayushs0911/Projects/tree/main/Emotions%20Detection)**
--  **Goal of the Project :**
-  -  Develop a deep learning model that accurately recognizes emotions from facial expressions for potential applications in psychology and marketing.
+-  **Goal of the Project :** Develop a deep learning model that accurately recognizes emotions from facial expressions for potential applications in psychology and marketing.
 - **Highlights:**
   - Imported `Kaggle` Dataset | ~30,000 Training Images, belonging to 7 different Classes
   - `Data Augmentation`, 
@@ -50,9 +63,7 @@ These are short summaries of my projects, which I've performed to upskill my cap
   - HuggingFace downloaded Model performed best : `Accuracy : ~70%`
 
 **[Malaria Detection by Blood Sample Images](https://github.com/ayushs0911/Projects/blob/main/Malaria__detection.ipynb)**<a name="malaria"></a>
-- **Goal of the Project :** 
-  - Detecting whether a Blood Sample is infected by Malarial Parasite. This Model can help in easy detection of malaria cases. 
-  - In remote places, where doctors and technicians are not available, this Deep learning model can aid in faster diagnosis and can save lives.
+- **Goal of the Project :** Detecting whether a Blood Sample is infected by Malarial Parasite. This Model can help in easy detection of malaria cases. In remote places, where doctors and technicians are not available, this Deep learning model can aid in faster diagnosis and can save lives.
 - **Highlights:**
   - `Data Augmentation` | Data loading through `Batches`, also `prefetching dataset` to make training faster.
   - Also tried `Mixup data augmentation, Cutmix augmentation and Albumenations`  
@@ -68,8 +79,7 @@ These are short summaries of my projects, which I've performed to upskill my cap
 # NLP <a name="nlp"></a>
 
 **[Sentiment Analysys : Alexa Reviews](https://github.com/ayushs0911/Projects/blob/main/Sentiment_Analysis_Amazon_Alexa.ipynb)**<br>
-- **Goal of Project :** 
-  - Based on reviews, predicting whether customers are satisfied with the product or not.
+- **Goal of Project :** Based on reviews, predicting whether customers are satisfied with the product or not.
   - Dataset consists of  ~ 3000 Amazon customer reviews (input text), star ratings, date of review, variant and feedback of various amazon Alexa products like Alexa Echo, Echo dots, Alexa Firesticks etc.
 - **Highlights :**
   - Data Evaluation, `WordCloud`, Cleaning : droppin not important columns, remove punctuations, 
@@ -85,9 +95,7 @@ These are short summaries of my projects, which I've performed to upskill my cap
 
 
 **[Drake Like Lyrics Generation](https://github.com/ayushs0911/Projects/blob/main/NLP/Drake_Lyrics_Generator.ipynb)**<br>
-- **Goal of Project :** 
-  - Text Generation model, which outputs Drake Style lyrics from any English Language inputs.
-  - Given a sequence of characters from the data, training a model to predict the next character in the sequence. Longer sequences of text can be generated by calling the model repeatedly.
+- **Goal of Project :** Text Generation model, which outputs Drake Style lyrics from any English Language inputs. Given a sequence of characters from the data, training a model to predict the next character in the sequence. Longer sequences of text can be generated by calling the model repeatedly.
 - **Highlights :**
   - Text Processing : `StringLookup`, `tf.strings.unicode_split`, 
   - Layers : `Embeddings`, `GRU`, 
