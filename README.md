@@ -1,13 +1,11 @@
 These are short summaries of my projects, which I've performed to upskill my capabilities as a Data Scientist.<br>
 
 **Table of Contents:**
-- [Machine Learning](#machine-learning)
-<br>
-*Tools : Numpy, Pandas, Scikit-Learn, Matplotlib, Seaborn, SQL, Statistics*
+- [Machine Learning](#machine-learning) <br>
+*Tools : Numpy, Pandas, Scikit-Learn, Matplotlib, Seaborn, SQL, Statistics*<br>
 - [Computer Vision](#cv)<br>
   - [Object Detection](#object)
-  - [Image Classification](#ic)
-<br>
+  - [Image Classification](#ic) <br>
 *Tools : TensorFlow, Pytorch, OpenCV, Albumentations, HuggingFace Transformers*
 - [NLP](#nlp)<br>
 *Tools : Spacy, Nltk, Embeddings, LSTM, RNN*
@@ -44,7 +42,7 @@ These are short summaries of my projects, which I've performed to upskill my cap
 ## Object Detection <a name="object"></a>
 **[YOLO from Scratch](https://github.com/ayushs0911/Object-Detection/blob/main/YOLO_from_Scratch_.ipynb)**
 - **Goal of Project :** Create an object detection model that can accurately and efficiently detect objects in an image or video stream in real-time. 
-- **Highlights : **
+- **Highlights :**
   - Parsed `XML` which contains annotation of training images with object detection information. 
   - `Albumentations` Library
   - Used `EfficientNet1` and changed top to CNN layers, instead of using Fully connected layers. 
