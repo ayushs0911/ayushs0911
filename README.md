@@ -6,7 +6,8 @@ These are short summaries of my projects, which I've performed to upskill my cap
 - [Computer Vision](#cv)<br>
   - [Object Detection](#object)
   - [Image Classification](#ic) <br>
-*Tools : TensorFlow, Pytorch, OpenCV, Albumentations, HuggingFace Transformers*
+
+  *Tools : TensorFlow, Pytorch, OpenCV, Albumentations, HuggingFace Transformers*
 - [NLP](#nlp)<br>
 *Tools : Spacy, Nltk, Embeddings, LSTM, RNN*
 - [Time Forecasting](#ts)
