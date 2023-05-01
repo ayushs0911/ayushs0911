@@ -45,7 +45,7 @@ These are short summaries of my projects, which I've performed to upskill my cap
 - **Highlights :**
   - Parsed `XML` which contains annotation of training images with object detection information. 
   - `Albumentations` Library
-  - Used `EfficientNet1` and changed top to CNN layers, instead of using Fully connected layers. 
+  - Used `EfficientNet1` and changed top two layers to CNN layers, instead of using Fully connected layers. 
   - Defined `Intersection Over Union` function to measure the overlap between two sets of bounding boxes.
   - Defined `YOLO Loss function`
   - Trained for `50 Epochs` | Results displayed on Validation Dataset. 
@@ -55,7 +55,7 @@ These are short summaries of my projects, which I've performed to upskill my cap
 **[Emotion Detection](https://github.com/ayushs0911/Projects/tree/main/Emotions%20Detection)**
 -  **Goal of the Project :** Develop a deep learning model that accurately recognizes emotions from facial expressions for potential applications in psychology and marketing.
 - **Highlights:**
-  - Imported `Kaggle` Dataset | ~30,000 Training Images, belonging to 7 different Classes
+  -  Dataset : ~30,000 Training Images, belonging to 7 different Classes
   - `Data Augmentation`, 
   - `Lenet`, `ResNet34`, Transfer Learning `EfficientNet`, FineTuning EfficientNet, Vision Transformer, Using `HuggingFace Transformer`
   - HuggingFace downloaded Model performed best : `Accuracy : ~70%`
@@ -63,10 +63,10 @@ These are short summaries of my projects, which I've performed to upskill my cap
 **[Malaria Detection by Blood Sample Images](https://github.com/ayushs0911/Projects/blob/main/Malaria__detection.ipynb)**<a name="malaria"></a>
 - **Goal of the Project :** Detecting whether a Blood Sample is infected by Malarial Parasite. This Model can help in easy detection of malaria cases. In remote places, where doctors and technicians are not available, this Deep learning model can aid in faster diagnosis and can save lives.
 - **Highlights:**
-  - `Data Augmentation` | Data loading through `Batches`, also `prefetching dataset` to make training faster.
-  - Also tried `Mixup data augmentation, Cutmix augmentation and Albumenations`  
+  - `prefetching dataset` to make training faster |`Mixup data augmentation, Cutmix augmentation and Albumenations`  
   - `CNN` and Used `callbacks`  | Plotted Loss Curves, Confusion Matrix
-- As it was a Medical diagnosis case, so we have to reduce False Positives (diagosing a person Uninfected, despite being parasatized.)
+  - `Accuracy : 93%`
+- As it was a Medical diagnosis case, so we have to reduce **False Positives** (diagosing a person Uninfected, despite being parasatized.)
   - Used `ROC Curve` and Calculated `Threshold` parameter.
   - Then re-plotted the Confusion Matrix
 
