@@ -41,7 +41,7 @@ These are short summaries of my projects, which I've performed to upskill my cap
 
 # Computer Vision <a name="cv"></a>
 ## Object Detection <a name="object"></a>
-**[YOLO from Scratch](https://github.com/ayushs0911/Object-Detection/blob/main/YOLO_from_Scratch_.ipynb)**
+**[YOLO from Scratch]([https://github.com/ayushs0911/Object-Detection/blob/main/YOLO_from_Scratch_.ipynb](https://github.com/ayushs0911/Object-Detection/tree/main/YOLO%20From%20Scratch%20))**
 - **Goal of Project :** Create an object detection model that can accurately and efficiently detect objects in an image or video stream in real-time. 
 - **Highlights :**
   - Parsed `XML` which contains annotation of training images with object detection information. 
