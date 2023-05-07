@@ -1,4 +1,4 @@
-These are short summaries of my projects, which I've performed to upskill my capabilities as a Data Scientist.<br>
+Welcome to my portfolio! Here, you'll find brief descriptions of the projects I've undertaken to enhance my skills as a Data Scientist.
 
 **Table of Contents:**
 - [Machine Learning](#machine-learning) <br>
