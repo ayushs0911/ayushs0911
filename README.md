@@ -24,7 +24,13 @@ Welcome to my portfolio! Here, you'll find brief descriptions of the projects I'
 ## Regression Analysis <a name = "ra"></a> <br>
 
 **[Body Fat Estimation Flask Web Application](https://github.com/ayushs0911/Regression-Models/tree/main/Body%20Fat%20Estimation)**
-- 
+- **Goal of Project :** Illustrate multiple regression techniques, for Accurate measurement of body fat as majority of tools  are inconvenient/costly and it is desirable to have easy methods. 
+- **Highlights :**
+  - `Kde Plots`, `Histogram` `Probability plot` `Boxplot`
+  - Checking **outliers** with upper and limit equals to -3 and 3 in normal distribution. 
+  - Feature Selection : `Extra Tree Regressor` `Mutual Information Gain` `Variance inflation factor`
+  - Result : `Random Forest Regression` performs best with `R2 Score : 99%` 
+  - Hosted Website on `FLASK` framework. 
 
 
 ## Classification Analysis <a name = "ca"></a>
