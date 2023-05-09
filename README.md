@@ -2,12 +2,16 @@ Welcome to my portfolio! Here, you'll find brief descriptions of the projects I'
 
 **Table of Contents:**
 - [Machine Learning](#machine-learning) <br>
+  - [Regression Analysis](#ra)<br>
+  - [Classification Analysis](#ca)<br>
+
+
 *Tools : Numpy, Pandas, Scikit-Learn, Matplotlib, Seaborn, SQL, Statistics*<br>
 - [Computer Vision](#cv)<br>
   - [Object Detection](#object)
   - [Image Classification](#ic) <br>
 
-  *Tools : TensorFlow, Pytorch, OpenCV, Albumentations, HuggingFace Transformers*
+*Tools : TensorFlow, Pytorch, OpenCV, Albumentations, HuggingFace Transformers*
 - [NLP](#nlp)<br>
 *Tools : Spacy, Nltk, Embeddings, LSTM, RNN*
 - [Time Forecasting](#ts)
@@ -17,6 +21,13 @@ Welcome to my portfolio! Here, you'll find brief descriptions of the projects I'
 *****
 
 # Machine Learning <a name="machine-learning"></a>
+## Regression Analysis <a name = "ra"></a> <br>
+
+**[Body Fat Estimation Flask Web Application](https://github.com/ayushs0911/Regression-Models/tree/main/Body%20Fat%20Estimation)**
+- 
+
+
+## Classification Analysis <a name = "ca"></a>
 **[SpaceX Falcon 9 1st stage Landing Prediction](https://github.com/ayushs0911/IBM-Capstone-Project)** <a name="space"></a>
 - **Goal of the Project :** SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of $165 million per launch, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. 
 - **Highlights:** 
