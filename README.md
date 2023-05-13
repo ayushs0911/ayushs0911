@@ -16,7 +16,6 @@ Welcome to my portfolio! Here, you'll find brief descriptions of the projects I'
 
   *Tools : Spacy, Nltk, Embeddings, LSTM, RNN*
 - [Time Forecasting](#ts)
-- [OpenCV](#ocv)
 - [Misc.](#misc)
 
 *****
@@ -153,10 +152,8 @@ Welcome to my portfolio! Here, you'll find brief descriptions of the projects I'
   - Statistical Anlaysis 
   - Used Facebook `Prophet Alogorithm` for Prediction. 
 
-# Open CV <a name="ocv"></a>
-**[Optical Character Recognition](https://github.com/ayushs0911/OpenCV/blob/main/OCR_.ipynb)** : Using OCR with PyTesseract and EASY OCR <br>
-**[Grab Cut Algorithm](https://github.com/ayushs0911/OpenCV/blob/main/GrabCut_Algorithm.ipynb)** : The GrabCut algorithm is particularly useful for applications such as image editing, where it can be used to extract objects from an image for further manipulation or insertion into another image.
 
 # Misc <a name="misc"></a>
-[Google Deep Dream](https://github.com/ayushs0911/DeepDream) : The DeepDream algorithm effective in asking a pre-trained CNN to take a look at the image, identify patterns you recognise and amplify it. It uses representations learned by CNNs to produce these hallucinogenic or 'trippy' images.<br>
+- [OpenCV](https://github.com/ayushs0911/OpenCV)
+- [Google Deep Dream](https://github.com/ayushs0911/DeepDream) : The DeepDream algorithm effective in asking a pre-trained CNN to take a look at the image, identify patterns you recognise and amplify it. It uses representations learned by CNNs to produce these hallucinogenic or 'trippy' images.<br>
 
