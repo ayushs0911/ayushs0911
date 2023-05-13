@@ -13,6 +13,7 @@ Welcome to my portfolio! Here, you'll find brief descriptions of the projects I'
 
 *Tools : TensorFlow, Pytorch, OpenCV, Albumentations, HuggingFace Transformers*
 - [NLP](#nlp)<br>
+
 *Tools : Spacy, Nltk, Embeddings, LSTM, RNN*
 - [Time Forecasting](#ts)
 - [OpenCV](#ocv)
@@ -58,6 +59,13 @@ Welcome to my portfolio! Here, you'll find brief descriptions of the projects I'
 
 # Computer Vision <a name="cv"></a>
 ## Object Detection <a name="object"></a>
+**[Mask Detection using Detectron2 Library](https://github.com/ayushs0911/Object-Detection/tree/main/Mask%20Detection%20using%20Detectron%202)**
+- **Goal of Project :** Create an application which can detect wheather a person is wearing mask, not wearing it propoperly and not wearing. 
+- **Highlights**
+  - Use of `Detectron 2` Library developed by `Facebook AI Research`
+  - Used `faster_rcnn_R_50_FPN_3x` for object detection 
+  - Trained for `1000 Iterations`
+
 [**Arthropod Taxonomy Orders Object Detection**](https://github.com/ayushs0911/Object-Detection/tree/main/Anthropods%20Object%20Detection)
 - **Goal of Project :** Create an object detection model that can accurately and efficiently detect objects in an image or video stream in real-time. 
 - **Highlights**
