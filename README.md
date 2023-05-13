@@ -6,15 +6,15 @@ Welcome to my portfolio! Here, you'll find brief descriptions of the projects I'
   - [Classification Analysis](#ca)<br>
 
 
-*Tools : Numpy, Pandas, Scikit-Learn, Matplotlib, Seaborn, SQL, Statistics*<br>
+  *Tools : Numpy, Pandas, Scikit-Learn, Matplotlib, Seaborn, SQL, Statistics*<br>
 - [Computer Vision](#cv)<br>
   - [Object Detection](#object)
   - [Image Classification](#ic) <br>
 
-*Tools : TensorFlow, Pytorch, OpenCV, Albumentations, HuggingFace Transformers*
+  *Tools : TensorFlow, Pytorch, OpenCV, Albumentations, HuggingFace Transformers*
 - [NLP](#nlp)<br>
 
-*Tools : Spacy, Nltk, Embeddings, LSTM, RNN*
+  *Tools : Spacy, Nltk, Embeddings, LSTM, RNN*
 - [Time Forecasting](#ts)
 - [OpenCV](#ocv)
 - [Misc.](#misc)
