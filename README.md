@@ -24,7 +24,6 @@ Welcome to my portfolio! Here, you'll find brief descriptions of the projects I'
 ## Regression Analysis <a name = "ra"></a> <br>
 
 **[Laptop Price Prediction | Streamlit App | Deployment on Render](https://github.com/ayushs0911/Laptop-Price-Predictions/tree/main)**
-- [DEMO](https://laptop-price-predictor-0mmw.onrender.com/)
 - **Goal Of the Project :** Predict the price of Laptop using Parameters Like Brand, RAM, OS, Touchscreen, HDD, SSD etc 
 
 **[Body Fat Estimation Flask Web Application](https://github.com/ayushs0911/Regression-Models/tree/main/Body%20Fat%20Estimation)**
