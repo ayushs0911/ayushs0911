@@ -28,7 +28,7 @@ Welcome to my portfolio! Here, you'll find brief descriptions of the projects I'
 **[Laptop Price Prediction | Streamlit App | Deployment on Render](https://github.com/ayushs0911/Laptop-Price-Predictions/tree/main)**
 - **Goal Of the Project :** Predict the price of Laptop using Parameters Like Brand, RAM, OS, Touchscreen, HDD, SSD etc 
 
-**[Body Fat Estimation Flask Web Application](https://github.com/ayushs0911/Regression-Models/tree/main/Body%20Fat%20Estimation)**
+**[Body Fat Estimation Flask Web Application](https://github.com/ayushs0911/Body-Fat-Estimator)**
 - **Goal of Project :** Illustrate multiple regression techniques, for Accurate measurement of body fat as majority of tools  are inconvenient/costly and it is desirable to have easy methods. 
 - **Highlights :**
   - Checking **outliers** with upper and limit equals to -3 and 3 in normal distribution. 
