@@ -17,6 +17,7 @@ Welcome to my portfolio! Here, you'll find brief descriptions of the projects I'
 
   *Tools : Spacy, Nltk, Embeddings, LSTM, RNN*
 - [Time Forecasting](#ts)
+- [Generative AI](#GI)
 - [Misc.](#misc)
 
 *****
@@ -145,12 +146,7 @@ Welcome to my portfolio! Here, you'll find brief descriptions of the projects I'
 - **Goal of Project :**
   - Constructing a Deep Learning Classification model to predict which Tweets are about real disaster and which one aren't
 - **Highlights :**
-  - Model 1 : `Feed-Forward neural network`
-  - Model 2 : `LSTM` model
-  - Model 3 : `GRU` model
-  - Model 4 : `Bidirectional-LSTM` model
-  - Model 5 : `1D CNN`
-  - Model 6 : `TensorFlow Hub Pretrained Feature Extractor`
+  - Model 1 : `Feed-Forward neural network` | Model 2 : `LSTM` model | Model 3 : `GRU` model | Model 4 : `Bidirectional-LSTM` model | Model 5 : `1D CNN` | Model 6 : `TensorFlow Hub Pretrained Feature Extractor`
 
 # Time Forecasting <a name="ts"></a>
 **Sales Department Case Study : [Sales Forecasting](https://github.com/ayushs0911/Projects/blob/main/Sales_Forecast_using_Facebook_Prophet.ipynb)**
@@ -163,6 +159,11 @@ Welcome to my portfolio! Here, you'll find brief descriptions of the projects I'
   - Statistical Anlaysis 
   - Used Facebook `Prophet Alogorithm` for Prediction. 
 
+# Generative AI <a name = "GI"></a>
+**[Recipe Generator](https://github.com/ayushs0911/Recipe-Generator-using-OpenAi-Dalle)**<br>
+- **Goal of the Project :** Generate recipes based on left over ingredients and even provide stunning of the dishes!
+- **Highlights :** 
+  - Combines the power of OpenAI's `DALL·E` and OpenAI's `text-davinci-003`
 
 # Misc <a name="misc"></a>
 - [OpenCV](https://github.com/ayushs0911/OpenCV)
