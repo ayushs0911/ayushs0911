@@ -62,6 +62,7 @@ Welcome to my portfolio! Here, you'll find brief descriptions of the projects I'
 - **Goal of Project :** Better understand its customers and makes it easier for them to modify products according to the specific needs, behaviors and concerns. 
 - **Highlights :**
   - Feature Enginnering, Outliers removing, Dimensionality Reduction using `PCA`, 
+  - `Agglomerative Clustering`
   - `Elbow Method`, 3D plotting, Profiling, Deriving Conclusion
 
 
