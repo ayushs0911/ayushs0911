@@ -61,7 +61,8 @@ Welcome to my portfolio! Here, you'll find brief descriptions of the projects I'
 **[Customer Personality Analysis](https://github.com/ayushs0911/Customer-Personality-Analysis)**
 - **Goal of Project :** Better understand its customers and makes it easier for them to modify products according to the specific needs, behaviors and concerns. 
 - **Highlights :**
-  - Feature Enginnering, Outliers removing, Dimensionality Reduction using PCA, Elbow Method, 3D plotting, Profiling, Deriving Conclusion
+  - Feature Enginnering, Outliers removing, Dimensionality Reduction using `PCA`, 
+  - `Elbow Method`, 3D plotting, Profiling, Deriving Conclusion
 
 
 
