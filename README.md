@@ -4,6 +4,7 @@ Welcome to my portfolio! Here, you'll find brief descriptions of the projects I'
 - [Machine Learning](#machine-learning) <br>
   - [Regression Analysis](#ra)<br>
   - [Classification Analysis](#ca)<br>
+  - [Unsupervised Learning](#ul)<br>
 
 
   *Tools : Numpy, Pandas, Scikit-Learn, Matplotlib, Seaborn, SQL, Statistics*<br>
@@ -29,7 +30,6 @@ Welcome to my portfolio! Here, you'll find brief descriptions of the projects I'
 **[Body Fat Estimation Flask Web Application](https://github.com/ayushs0911/Regression-Models/tree/main/Body%20Fat%20Estimation)**
 - **Goal of Project :** Illustrate multiple regression techniques, for Accurate measurement of body fat as majority of tools  are inconvenient/costly and it is desirable to have easy methods. 
 - **Highlights :**
-  - `Kde Plots`, `Histogram` `Probability plot` `Boxplot`
   - Checking **outliers** with upper and limit equals to -3 and 3 in normal distribution. 
   - Feature Selection : `Extra Tree Regressor` `Mutual Information Gain` `Variance inflation factor`
   - Result : `Random Forest Regression` performs best with `R2 Score : 99%` 
@@ -57,7 +57,13 @@ Welcome to my portfolio! Here, you'll find brief descriptions of the projects I'
   - OneHot Encoder, Min Max Scaler 
 <br>
 
-**Financial Institution Case Study : [Likelihood of approving Loan based on Financial History](https://github.com/ayushs0911/Projects/blob/main/Likelihood_of_approving_a_Loan.ipynb)**
+## Unsupervised Learning <a name = "ul"></a>
+**[Customer Personality Analysis](https://github.com/ayushs0911/Customer-Personality-Analysis)**
+- **Goal of Project :** Better understand its customers and makes it easier for them to modify products according to the specific needs, behaviors and concerns. 
+- **Highlights :**
+  - Feature Enginnering, Outliers removing, Dimensionality Reduction using PCA, Elbow Method, 3D plotting, Profiling, Deriving Conclusion
+
+
 
 # Computer Vision <a name="cv"></a>
 ## Object Detection <a name="object"></a>
