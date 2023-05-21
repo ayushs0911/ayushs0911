@@ -10,7 +10,8 @@ Welcome to my portfolio! Here, you'll find brief descriptions of the projects I'
   *Tools : Numpy, Pandas, Scikit-Learn, Matplotlib, Seaborn, SQL, Statistics*<br>
 - [Computer Vision](#cv)<br>
   - [Object Detection](#object)
-  - [Image Classification](#ic) <br>
+  - [Image Classification](#ic) 
+  - [Image Segmentation](#is)<br>
 
   *Tools : TensorFlow, Pytorch, OpenCV, Albumentations, HuggingFace Transformers*
 - [NLP](#nlp)<br>
@@ -117,6 +118,14 @@ Welcome to my portfolio! Here, you'll find brief descriptions of the projects I'
 
 **[Food Vision 101 : Image Classification model using TensorFlow](https://github.com/ayushs0911/Projects/blob/main/Food_Vision_Image_Classificaton_TensorFlow.ipynb)**<a name="food"></a>
 
+## Image Segmentation<a name = "is"></a>
+**[Semantic Segmentation for Self Driving cars](https://github.com/ayushs0911/Image-Segmentation/tree/main)**
+- **Goal of the project :**  Assign a specific class label to each pixel or region in the image, allowing the autonomous vehicle's perception system to understand the environment in a more detailed and meaningful way.
+- **Highlights :**
+  - Dataset consist of `5000 images with 13 classes`, divided them into train, val, test set | `lyft-udacity-challenge dataset`, from Kaggle
+  - Preprocessed the data and created tuples for image and masks => split it into train, test, val  
+  - defined `upsampling blocks`, `downsampling blocks` and `unet_model`
+  - After training for only 5 epochs, achieved `Accuracy of 95%` on test_set. 
 
 # NLP <a name="nlp"></a>
 
