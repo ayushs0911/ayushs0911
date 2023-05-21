@@ -82,7 +82,9 @@ Welcome to my portfolio! Here, you'll find brief descriptions of the projects I'
 - **Goal of Project :** Create an object detection model that can accurately and efficiently detect objects in an image or video stream in real-time. 
 - **Highlights**
   - Use of `Yolov8` developed by `Ultralytics`
+  - Converted JSON file containing maps information to DataFrame
   - Dataset : [Arthropod Taxonomy Orders Object Detection Dataset](https://www.kaggle.com/datasets/mistag/arthropod-taxonomy-orders-object-detection-dataset) | Total of 15,000 Images | Images spread across 7 classes 
+  - mAP at 50% IoU threshold is 0.525 | mAP50-95 : 0.365 | Fitness score of 0.6 on val. 
   - Exported model to `ONXX` format 
 
 **[YOLO from Scratch](https://github.com/ayushs0911/Object-Detection/tree/main/YOLO%20From%20Scratch%20)**
