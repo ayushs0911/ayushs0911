@@ -18,7 +18,7 @@ Welcome to my portfolio! Here, you'll find brief descriptions of the projects I'
 
   *Tools : Spacy, Nltk, Embeddings, LSTM, RNN*
 - [Time Forecasting](#ts)
-- [Generative AI](#GI)
+- [Generative AI](#gi)
 - [Misc.](#misc)
 
 *****
@@ -170,7 +170,7 @@ Welcome to my portfolio! Here, you'll find brief descriptions of the projects I'
   - Statistical Anlaysis 
   - Used Facebook `Prophet Alogorithm` for Prediction. 
 
-# Generative AI <a name ="GI"></a>
+# Generative AI <a name ="gi"></a>
 **[Recipe Generator](https://github.com/ayushs0911/Recipe-Generator-using-OpenAi-Dalle)**<br>
 - **Goal of the Project :** Generate recipes based on left over ingredients and even provide stunning of the dishes!
 - **Highlights :** 
