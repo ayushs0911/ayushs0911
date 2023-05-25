@@ -131,6 +131,12 @@ Welcome to my portfolio! Here, you'll find brief descriptions of the projects I'
 
 # NLP <a name="nlp"></a>
 
+**[Intent Classification](https://github.com/ayushs0911/NLP-Projects/blob/main/Intent%20Classification%20with%20Deberta%20in%20HuggingFace.ipynb)**<br>
+- Fined tuned `DeBERTa` from HuggingFace for Intent Classification. 
+
+**[Named Entity Recognition](https://github.com/ayushs0911/NLP-Projects/blob/main/Named_Entity_Recognition_with_Roberta_using_Huggingface_Transformers.ipynb)**<br>
+- Fined tuned `RoBERTa` from HuggingFace for NER.
+
 **[Sentiment Analysys : Alexa Reviews](https://github.com/ayushs0911/Projects/blob/main/Sentiment_Analysis_Amazon_Alexa.ipynb)**<br>
 - **Goal of Project :** Based on reviews, predicting whether customers are satisfied with the product or not.
   - Dataset consists of  ~ 3000 Amazon customer reviews (input text), star ratings, date of review, variant and feedback of various amazon Alexa products like Alexa Echo, Echo dots, Alexa Firesticks etc.
