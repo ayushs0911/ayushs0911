@@ -177,6 +177,9 @@ Welcome to my portfolio! Here, you'll find brief descriptions of the projects I'
   - Used Facebook `Prophet Alogorithm` for Prediction. 
 
 # Generative AI <a name ="gi"></a>
+**[LLM For SQL Generation](https://github.com/ayushs0911/LLMs-for-SQL-Query-Generation)**
+- Bridge gap b/w non-technical users and databases Developed script that prompted users for input and Utilized OpenAI's "text-davinci-003" model to process prompts and generate tailored SQL queries.
+
 **[Recipe Generator](https://github.com/ayushs0911/Recipe-Generator-using-OpenAi-Dalle)**<br>
 - **Goal of the Project :** Generate recipes based on left over ingredients and even provide stunning of the dishes!
 - **Highlights :** 
